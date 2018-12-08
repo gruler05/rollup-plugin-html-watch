@@ -1,0 +1,22 @@
+{
+  "name": "rollup-plugin-html-watch",
+  "version": "1.0.0",
+  "description": "Rollup plugin to watch the html file changes",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gruler05/rollup-plugin-html-watch.git"
+  },
+  "keywords": [
+    "rollup-plugin"
+  ],
+  "author": "Gaurav Bansode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gruler05/rollup-plugin-html-watch/issues"
+  },
+  "homepage": "https://github.com/gruler05/rollup-plugin-html-watch#readme"
+}
